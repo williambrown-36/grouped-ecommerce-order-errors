@@ -54,3 +54,7 @@ That's the minimal teaching version. Before it hits real traffic, the details be
 
 **Grouped Ecommerce Order Errors: Observability**
 - **Grouped Ecommerce Order Errors:** Capture on the server (`POST /v1/errors/capture`); scrub PII before sending. Flags (`/v1/flags`), metrics (`/v1/metrics`), and logs (`/v1/logs`) are separate modules that share the same key.
+
+## Further reading
+
+- [Production Logging Trust Boundaries — Compare Hosted Log API Processing for Games](docs/production-logging-trust-boundaries-compare-hoste-bb4zio.md)
